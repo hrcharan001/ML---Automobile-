@@ -175,7 +175,3 @@ This project strengthened my understanding of:
 - Production-ready ML project structure
 
 ---
-
-Please consider giving this repository a **Star ⭐**
-
-It motivates me to build and share more real-world Data Analytics and Machine Learning projects.
